@@ -5,7 +5,7 @@
 - 📫 How to reach me ... ambitious
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+Github+Profile;Hey+It's+Livai+Ackerman)](https://git.io/typing-svg)
+-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Github+Profile;Hey+It's+Livai+Ackerman)](https://git.io/typing-svg)
 
 <!---
 LivaiAckerman7/LivaiAckerman7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
